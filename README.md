@@ -1,3 +1,15 @@
+![LOGIN](https://github.com/user-attachments/assets/d12eeec5-9306-4aed-9f29-74edf8c3a65e)
+![dashboard](https://github.com/user-attachments/assets/164a0a5b-b95f-47ea-9784-3e65740b1afb)
+![update](https://github.com/user-attachments/assets/dc0ef43a-002b-4d06-a386-9c85973d4ae7)
+![purchase](https://github.com/user-attachments/assets/e25fb0a1-3232-4802-a80e-d4334b535107)
+![sell](https://github.com/user-attachments/assets/642e0144-6927-41f8-a946-41950f4a290f)
+
+![add](https://github.com/user-attachments/assets/d5cf351c-2817-4eb5-bcee-376f9d05d470)
+
+![inventory](https://github.com/user-attachments/assets/e5d04f71-1238-442a-8f6f-b8fe6cfda8a0)
+
+
+
 Spice Business Management System
 This Java-based Spice Business Management System is designed to help manage spice inventory and purchasing processes efficiently. The system includes features like adding and purchasing spices, updating spice prices, and managing quantities in stock. It uses a MySQL database to store and manage data, and the user interface is built using NetBeans.
 
