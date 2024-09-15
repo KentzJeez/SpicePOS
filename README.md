@@ -12,7 +12,7 @@ Spice Purchase: After selecting a spice and entering the quantity, users can upd
 Technology Stack
 Java (JDK 8+): Core programming language used for building the application.
 NetBeans IDE: Used to develop the GUI components.
-MySQL: Database for storing and retrieving spice information.
+MySQL: Database for storing and retrieving spice information.(XAMPP)
 JDBC: Java API used for connecting and executing queries in the MySQL database.
 Installation and Setup
 Clone the repository to your local machine:
